@@ -1,0 +1,47 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    background-color: chocolate;
+    color: darkblue;
+}
+
+.pierwszy {
+    background-color: darkcyan;
+    color: black;
+}
+
+h2{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+
+.drugi {
+    background-color: crimson;
+    color: darkkhaki;
+}
+
+ol{
+    background-color: magenta;
+}
+
+.first{
+    color: mediumspringgreen;
+}
+
+.second{
+    color: navy;
+}
+
+.third{
+    color: orange;
+}
+
+.fourth{
+    color: plum;
+}
+
+.fifth{
+color: olive;
+}
